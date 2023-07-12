@@ -1,0 +1,40 @@
+/* div{
+    border: 2px solid red;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    margin: 5px;
+}
+input{
+    border: 2px solid blue;
+    height: 30px;
+} */
+.main{
+    border: 2px solid red;
+    width: 170px;
+    margin: 0 auto;
+}
+
+.inp{
+    border: 1px solid greenyellow;
+    width: 97%;
+}
+
+.cbtn{
+    margin-top: 4px;
+    width: 100%;
+    background-color: lightslategray;
+}
+
+.num{
+    margin: 2px;
+    background-color: lightslategray;
+    width: 20%;
+    margin-left: 3px;
+}
+.num0{
+    width: 80px;
+    margin-left: 2px;
+    background-color: lightslategray;
+    
+}
